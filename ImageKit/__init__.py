@@ -1,3 +1,3 @@
 __version__="1.0.0"
 
-from .ImgKit import ImgKit
+from .ImageKit import ImageKit
