@@ -15,5 +15,5 @@ setup(
     # The license can be anything you like
     license='MIT',
     description='A module for basic image processing.',
-    long_description=open('README.txt').read(),
+    long_description=open('README.md').read(),
 )
