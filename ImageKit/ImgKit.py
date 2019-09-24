@@ -49,7 +49,7 @@ def get_pixels(img):
 
 def get_band(img, band):
     prop = get_properties(img)
-    if int(d['dimensions'][2]) > 3:
+    if int(prop['dimensions'][2]) > 3:
         img = img.convert('RGB')
     source = img.split()
     R, G, B = 0, 1, 2
