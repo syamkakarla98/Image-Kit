@@ -80,5 +80,3 @@ def plot_signature(img):
     
     
 
-
-
