@@ -77,6 +77,6 @@ def plot_signature(img):
     plt.grid(True)
     plt.legend()
     plt.show()
-    
+     
     
 
