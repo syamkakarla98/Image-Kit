@@ -60,7 +60,7 @@ def get_band(img, band):
         b = source[G]
     if band.lower() == 'b'  :
         b = source[B].point(lambda i: i * 0.0)
-    return np.resize(b, list(img.size))
+    return np.resize(b, list(img.size)[::-1])
 
 def plot_signature(img):
     prop = get_properties(img)
