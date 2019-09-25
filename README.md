@@ -244,7 +244,7 @@ i.plot_signature(x)
 
 <center><font size= 95 style='font-family:Lucida Console' color ="mediumspringgreen">Thank You </font> </center>
 
-Do [star] the repository, if you like it.
+Do [star](Star syamkakarla98/Image-Kit) the repository, if you like it.
 
 
 ```python
