@@ -140,7 +140,7 @@ i.imshow(x1)
 ```
 
 
-![png](output_16_0.png)
+![png](assets/output_16_0.png)
 
 
 ### 9. Save the image
@@ -158,7 +158,7 @@ i.imshow(i.imrotate(x, 92))
 ```
 
 
-![png](output_20_0.png)
+![png](assets/output_20_0.png)
 
 
 ### 11. Converting image to grayscale
@@ -169,7 +169,7 @@ i.imshow(i.im2bw(x))
 ```
 
 
-![assets/png](output_22_0.png)
+![png](assets/output_22_0.png)
 
 
 ### 12. Extract pixels from the  image
@@ -220,15 +220,15 @@ i.imshow(i.get_band(x, 'b'))
 ```
 
 
-![assets/png](output_26_0.png)
+![png](assets/output_26_0.png)
 
 
 
-![assets/png](output_26_1.png)
+![png](assets/output_26_1.png)
 
 
 
-![assets/png](output_26_2.png)
+![png](assets/output_26_2.png)
 
 
 ### 14. Pixel signature of the image
@@ -239,12 +239,12 @@ i.plot_signature(x)
 ```
 
 
-![assets/png](output_28_0.png)
+![png](assets/output_28_0.png)
 
 
 <center><font size= 95 style='font-family:Lucida Console' color ="mediumspringgreen">Thank You </font> </center>
 
-# <center><font style='font-family:Lucida Console'> Do<br> <font style='font-family:Lucida Console' size=50 color = 'gold'>star</font><br> the repository, if you like it.</font> </center>
+<center><font style='font-family:Lucida Console'> Do<br> <font style='font-family:Lucida Console' size=50 color = 'gold'>star</font><br> the repository, if you like it.</font> </center>
 
 
 ```python
