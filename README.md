@@ -169,7 +169,7 @@ i.imshow(i.im2bw(x))
 ```
 
 
-![png](output_22_0.png)
+![assets/png](output_22_0.png)
 
 
 ### 12. Extract pixels from the  image
@@ -220,15 +220,15 @@ i.imshow(i.get_band(x, 'b'))
 ```
 
 
-![png](output_26_0.png)
+![assets/png](output_26_0.png)
 
 
 
-![png](output_26_1.png)
+![assets/png](output_26_1.png)
 
 
 
-![png](output_26_2.png)
+![assets/png](output_26_2.png)
 
 
 ### 14. Pixel signature of the image
@@ -239,7 +239,7 @@ i.plot_signature(x)
 ```
 
 
-![png](output_28_0.png)
+![assets/png](output_28_0.png)
 
 
 <center><font size= 95 style='font-family:Lucida Console' color ="mediumspringgreen">Thank You </font> </center>
