@@ -10,7 +10,7 @@ setup(
     author_email='Syamkakarla98@gmail.com',
     packages=['ImageKit'],
     install_requires=['numpy', 'matplotlib', 'Pillow', 'scipy'],
-    version='1.0.1',
+    version='0.1.0',
     license='MIT',
     description='A module for basic image processing.',
     long_description = long_description,
