@@ -77,6 +77,14 @@ def plot_signature(img):
     plt.grid(True)
     plt.legend()
     plt.show()
-     
-    
 
+def imsave(img, filename):
+    img.save(filename)
+    
+def imrotate(img, degrees):
+    return img.rotate(degrees)
+
+def im2bw(img):
+    modes = {'grayscale': 'L'}
+    return img.convert(modes[mode])
+    
