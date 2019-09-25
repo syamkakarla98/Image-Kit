@@ -85,6 +85,5 @@ def imrotate(img, degrees):
     return img.rotate(degrees)
 
 def im2bw(img):
-    modes = {'grayscale': 'L'}
-    return img.convert(modes[mode])
+    return img.convert('L)
     
