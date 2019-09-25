@@ -250,7 +250,7 @@ i.plot_signature(x)
 ![png](assets/output_28_0.png)
 
 
-# <center><font size= 95 style='font-family:Lucida Console' color ="mediumspringgreen">Thank You </font> </center>
+# Thank You
 
 # Do [star](https://github.com/syamkakarla98/Image-Kit) the repository, if you like it.
 
