@@ -14,6 +14,26 @@
 
 
 ```python
+pip install Image-Kit
+```
+```
+
+Requirement already satisfied: Image-Kit in /srv/conda/lib/python3.6/site-packages (0.1.0)
+Requirement already satisfied: Pillow in /srv/conda/lib/python3.6/site-packages (from Image-Kit) (6.0.0)
+Requirement already satisfied: matplotlib in /srv/conda/lib/python3.6/site-packages (from Image-Kit) (3.0.3)
+Requirement already satisfied: numpy in /srv/conda/lib/python3.6/site-packages (from Image-Kit) (1.16.3)
+Requirement already satisfied: scipy in /srv/conda/lib/python3.6/site-packages (from Image-Kit) (1.2.1)
+Requirement already satisfied: cycler>=0.10 in /srv/conda/lib/python3.6/site-packages (from matplotlib->Image-Kit) (0.10.0)
+Requirement already satisfied: kiwisolver>=1.0.1 in /srv/conda/lib/python3.6/site-packages (from matplotlib->Image-Kit) (1.0.1)
+Requirement already satisfied: pyparsing!=2.0.4,!=2.1.2,!=2.1.6,>=2.0.1 in /srv/conda/lib/python3.6/site-packages (from matplotlib->Image-Kit) (2.4.0)
+Requirement already satisfied: python-dateutil>=2.1 in /srv/conda/lib/python3.6/site-packages (from matplotlib->Image-Kit) (2.8.0)
+Requirement already satisfied: six in /srv/conda/lib/python3.6/site-packages (from cycler>=0.10->matplotlib->Image-Kit) (1.12.0)
+Requirement already satisfied: setuptools in /srv/conda/lib/python3.6/site-packages (from kiwisolver>=1.0.1->matplotlib->Image-Kit) (40.8.0)
+
+```
+#### or
+
+```python
 pip install git+https://github.com/syamkakarla98/Image-Kit.git
 ```
 
