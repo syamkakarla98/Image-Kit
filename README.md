@@ -5,6 +5,7 @@
 ![MIT](https://img.shields.io/badge/license-MIT-important.svg)
 ![Size](https://img.shields.io/github/repo-size/syamkakarla98/Image-Kit.svg?color=571B7E)
 ![Contributors](https://img.shields.io/github/contributors/syamkakarla98/Image-Kit.svg?color=yellow)
+[![GitHub issues](https://img.shields.io/github/issues/syamkakarla98/Image-Kit)](https://github.com/syamkakarla98/Image-Kit/issues)
 
 ### A simple python package for basic Image Processing for beginners
 
