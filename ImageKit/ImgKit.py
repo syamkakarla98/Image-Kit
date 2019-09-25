@@ -26,7 +26,10 @@ def imshow(img):
             Args: filename.
             
     """
-    plt.imshow(img)
+    if get_properties(img)['mode']== 'L':
+        plt.imshow(img, cmap='gray')
+    else:
+        plt.imshow(img)
     plt.show()
         
 def resize(img, s):
