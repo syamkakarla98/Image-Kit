@@ -113,7 +113,7 @@ i.imshow(x)
 ```
 
 
-![png](output_12_0.png)
+![png](assets/output_12_0.png)
 
 
 ### 7. Description of the image
