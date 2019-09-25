@@ -85,5 +85,5 @@ def imrotate(img, degrees):
     return img.rotate(degrees)
 
 def im2bw(img):
-    return img.convert('L)
+    return img.convert('L')
     
