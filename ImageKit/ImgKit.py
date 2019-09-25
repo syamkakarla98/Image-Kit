@@ -26,8 +26,9 @@ def imshow(img):
             Args: filename.
             
     """
-    if get_properties(img)['mode']== 'L':
-        plt.imshow(img, cmap='gray')
+    x = get_properties(img)
+    if x['mode'].lower()== 'l':
+        plt.imshow(img, cmap=plt.cm.gray)
     else:
         plt.imshow(img)
     plt.show()
