@@ -1,6 +1,7 @@
 
 # ImageKit
 ![ImageKit](https://img.shields.io/badge/Repo-ImageKit-brightgreen.svg)
+[![GitHub stars](https://img.shields.io/github/stars/syamkakarla98/Image-Kit)](https://github.com/syamkakarla98/Image-Kit/stargazers)
 ![Python](https://img.shields.io/badge/Python-3.6-blue.svg)
 ![MIT](https://img.shields.io/badge/license-MIT-important.svg)
 ![Size](https://img.shields.io/github/repo-size/syamkakarla98/Image-Kit.svg?color=571B7E)
