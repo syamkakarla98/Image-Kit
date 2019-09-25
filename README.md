@@ -242,9 +242,9 @@ i.plot_signature(x)
 ![png](assets/output_28_0.png)
 
 
-<center><font size= 95 style='font-family:Lucida Console' color ="mediumspringgreen">Thank You </font> </center>
+# <center><font size= 95 style='font-family:Lucida Console' color ="mediumspringgreen">Thank You </font> </center>
 
-Do [star](Star syamkakarla98/Image-Kit) the repository, if you like it.
+# Do (star)[Star syamkakarla98/Image-Kit] the repository, if you like it.
 
 
 ```python
