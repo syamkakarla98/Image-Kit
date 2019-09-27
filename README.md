@@ -8,7 +8,7 @@
 ![Contributors](https://img.shields.io/github/contributors/syamkakarla98/Image-Kit.svg?color=yellow)
 [![GitHub issues](https://img.shields.io/github/issues/syamkakarla98/Image-Kit)](https://github.com/syamkakarla98/Image-Kit/issues)
 
-### A simple python package for basic Image Processing.
+### A python package for basic image processing.
 
 ### 1. Installing Package
 
